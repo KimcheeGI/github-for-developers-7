@@ -3,3 +3,4 @@ Here's my great bio for this project. My bio includes:
      - [ ] Location: Jinhae South Korea
      - [ ] A Fav Food: Kimchi, of Course
      - [ ] A hobby: Newswatching
+     - [ ] Fav Color: Blue
